@@ -1,4 +1,4 @@
-# Movie Database API Documentation
+# Movie Database
 
 ## Overview
 
