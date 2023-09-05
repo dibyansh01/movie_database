@@ -133,8 +133,8 @@ To run the API locally, follow these steps:
 
 1. Ensure you have Python, Flask, and MySQL installed.
 2. You can use requirements.txt file to recreate the environment on your system using the pip install -r command: `pip install -r requirements.txt`
-3. Configure the MySQL database connection in the `database.py` file and run the `database.py` script for populating your local database with imdb.json.
-4. Run the `main.py` script to start the Flask development server.
+3. The first step is to configure the MySQL database connection in the `database.py` file and run the `database.py` script for populating your local database with imdb.json.
+4. In the second step, configure the `db_config` in main.py and then run the `main.py` script to start the Flask development server.
 
 ## Additional Features
 
