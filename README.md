@@ -140,4 +140,10 @@ To run the API locally, follow these steps:
 
 In order to increase security and scalability, I'm working to improve the application by integrating new features like user authentication, user roles, rate limiting, and pagination.
 
+## Demo 
+
+https://github.com/dibyansh01/movie_database/assets/129924389/2583c587-5a7c-475a-aae8-2bdcd455e0ec
+
+
+
 
